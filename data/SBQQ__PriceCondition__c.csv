@@ -1,0 +1,93 @@
+"Guid","SBQQ__Field__c","SBQQ__FilterFormula__c","SBQQ__FilterType__c","SBQQ__FilterVariable__c","SBQQ__Index__c","SBQQ__Object__c","SBQQ__Operator__c","SBQQ__Rule__c","SBQQ__TestedFormula__c","SBQQ__TestedVariable__c","SBQQ__Value__c"
+044a3ec8-1af7-4fd1-bd8c-81a879df6a9f,SBQQ__Product__c,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,6f35e2d9-5a9b-4075-83c3-69e9a04138e3,"#N/A","#N/A","#N/A"
+06461ba0-c59d-47c1-a635-a7cf293eb110,Product Code,"#N/A",Value,"#N/A","#N/A",Quote Line,equals,f81cf914-0941-4995-b220-d6cb6d787424,"#N/A","#N/A",WDCHIP
+069481e0-49f8-4e5e-ba92-2a412291ba0b,Protected_Devices__c,"#N/A",Value,"#N/A","#N/A",Product Option,greater than,1c09ee76-392d-454c-a098-9dc5638396d0,"#N/A","#N/A",0
+07d07e91-4821-4ec3-9f18-fff89ec6e3a9,Product Code,"#N/A",Value,"#N/A","#N/A",Quote Line,equals,fc42a143-0a43-4f73-90d2-47ae333a8fac,"#N/A","#N/A",WDCHIP
+0a158382-3ff5-4dbe-8af4-b38c17930eaf,Product Code,"#N/A",Value,"#N/A",444.0,Quote Line,equals,4b960207-1fb6-4f91-b578-d2d6aa6e5bd7,"#N/A","#N/A",EP-025
+0c6b57c3-4b86-4959-aa98-5f0161c83a3d,SBQQ__Product__c,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,448bfdbe-592a-49e6-95fa-9dda1f83132d,"#N/A","#N/A","#N/A"
+0f3c177b-31f6-475f-bcb6-252293503ab3,SBQQ__Type__c,"#N/A",Value,"#N/A",111.0,Quote,equals,15c8e6d6-a09a-47c9-8fe1-9041df3dfd98,"#N/A","#N/A",Quote
+0f76229a-3e33-4519-8b98-3af8dc1de6ff,Product Code,"#N/A",Value,"#N/A",222.0,Quote Line,equals,baa364d4-6f37-430a-a6a3-e35fbfe479e7,"#N/A","#N/A",EP-014
+10a31c3e-f6e8-4180-92c6-77ee42a210ac,SBQQ__ProductCode__c,"#N/A",Value,"#N/A","#N/A",Product Option,equals,6d808a48-b9f4-485d-998c-722e4a176ca6,"#N/A","#N/A",EP-013
+197ab221-7c97-465c-91a8-01bebf3c0d5f,Product Code,"#N/A",Value,"#N/A",444.0,Quote Line,equals,c9e3e345-b2e8-4cbc-818e-1311a7f0bcfb,"#N/A","#N/A",EP-025
+1afefc9d-a50a-40c3-9fc9-485f38064b16,Product Code,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,d6f06237-06d6-41b6-8e74-56831796435b,"#N/A","#N/A",Run-on-all-quotelines
+1cc37157-cf80-4b51-8740-d4b51baaf48b,Product Code,"#N/A",Value,"#N/A",333.0,Product Option,equals,d2af865d-3b7b-45a3-8b12-f8e69a78a1a8,"#N/A","#N/A",EP-015
+1d468fdd-8fa6-4ed7-b469-d17cd4271cab,SBQQ__Product__c,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,c3a4307f-7791-4a44-9cf3-8b174e669de4,"#N/A","#N/A","#N/A"
+1e199960-0b19-454c-a72b-b72b2a791c17,SBQQ__ProductCode__c,"#N/A",Value,"#N/A","#N/A",Product Option,equals,80feb5d5-2b57-4b66-8faf-0b7097723fd9,"#N/A","#N/A",EP-013
+1e9736d2-b112-4ea1-9047-b417c615ccc7,Product Code,"#N/A",Value,"#N/A",222.0,Quote Line,equals,4b960207-1fb6-4f91-b578-d2d6aa6e5bd7,"#N/A","#N/A",EP-014
+1eaffa2e-f441-41af-9b85-aa679a4a2fd5,SBQQ__Product__c,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,d1a8b364-2102-4a67-a686-02ea0ec7f554,"#N/A","#N/A","#N/A"
+1feea3e6-4c42-4256-9fac-6449634e07b3,SBQQ__ProductCode__c,"#N/A",Value,"#N/A","#N/A",Product Option,equals,1c09ee76-392d-454c-a098-9dc5638396d0,"#N/A","#N/A",EP-025
+21b65038-31c5-4ada-85f9-bc7ac6ae5b72,SBQQ__Product__c,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,dc18dc25-81f0-4dca-8f36-476af09887e2,"#N/A","#N/A","#N/A"
+2663d62e-44f4-4f11-9cf8-659d90003fdc,Product Code,"#N/A",Value,"#N/A",444.0,Quote Line,equals,baa364d4-6f37-430a-a6a3-e35fbfe479e7,"#N/A","#N/A",EP-025
+2a518291-d4d6-4f78-8122-930dc1d7a3b1,Product Code,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,4aefc026-514f-4f7b-87ee-0746c7e41b95,"#N/A","#N/A",fdhfvu6578
+2b19509b-6c92-403d-8cd3-f92cee2b40da,SBQQ__ProductCode__c,"#N/A",Value,"#N/A","#N/A",Product Option,equals,8ee537a7-ef01-494c-a7ce-7e41484ac90e,"#N/A","#N/A",EP-025
+32805d17-ab5f-4039-9cbf-7618454e3e6c,Product Code,"#N/A",Value,"#N/A","#N/A",Quote Line,starts with,e0d5bca6-03da-49be-a1a6-66a9f6cd7409,"#N/A","#N/A",SRV
+3602abef-0ee5-4046-97df-cb450d36b21b,Product Code,"#N/A",Value,"#N/A",222.0,Product Option,equals,15c8e6d6-a09a-47c9-8fe1-9041df3dfd98,"#N/A","#N/A",EP-014
+36ecadda-fb2e-4c71-a604-7353afe9cf15,SBQQ__Product__c,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,67b7d2bb-d43a-4b87-9674-0f69b2f90c9d,"#N/A","#N/A","#N/A"
+3a70b215-95e8-4203-8d09-bfb454c58ac7,Product Code,"#N/A",Value,"#N/A",222.0,Product Option,equals,885c21a8-ef06-4ce1-8adb-c5cad773c71c,"#N/A","#N/A",EP-014
+3bda3dfb-78cd-40a4-95ed-c0cbde2471bf,SBQQ__Product__c,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,b0cdcfbb-75ac-4391-8cda-23190522bcf1,"#N/A","#N/A","#N/A"
+3f9bfcb6-61cc-4ec7-9c2d-c8afa4b01ad5,SBQQ__Product__c,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,13a95dfc-d6ab-493a-9d27-01619a86531f,"#N/A","#N/A","#N/A"
+4177af89-ba44-45bb-97dc-d36891853abf,Product Code,"#N/A",Value,"#N/A",333.0,Quote Line,equals,4b960207-1fb6-4f91-b578-d2d6aa6e5bd7,"#N/A","#N/A",EP-015
+484cef3b-5d0f-4b57-8f50-93588fcb2704,SBQQ__Product__c,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,b644a1dd-8c4e-4829-b6f7-1d9584340cc9,"#N/A","#N/A","#N/A"
+4947b670-17a6-4514-a4cc-86aa11e2a9a7,Product Code,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,5cf242e6-c493-4201-b9a4-28d2c404baca,"#N/A","#N/A",fdhfvu6578
+4bf6b1ba-d5e6-46d5-9a73-15f3a6b101b0,Product Code,"#N/A",Value,"#N/A",333.0,Product Option,equals,15c8e6d6-a09a-47c9-8fe1-9041df3dfd98,"#N/A","#N/A",EP-015
+4d9ca753-d78d-4ad5-aedd-c9d2b233b40d,Protected_Devices__c,"#N/A",Value,"#N/A","#N/A",Product Option,greater than,b9aefe99-a9c2-489f-9209-0da9eaf89ec1,"#N/A","#N/A",0
+4eb394e4-21f4-4d6d-acc9-1884534179d1,SBQQ__Product__c,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,23fba5ec-15ad-4667-afdc-1fc42e291eab,"#N/A","#N/A","#N/A"
+50540a11-81c1-4697-82b0-f8cb5276adfd,Product Code,"#N/A",Value,"#N/A",222.0,Product Option,equals,429c4299-2a3f-46b9-aefd-8065125795e5,"#N/A","#N/A",EP-014
+5511edc5-6795-44a0-b0c4-411585c834be,Product Code,"#N/A",Value,"#N/A",333.0,Quote Line,equals,063d1e4c-31f2-41f5-84df-9ac1a13571b9,"#N/A","#N/A",EP-015
+58ffe3b3-dc1d-4c3a-9b8d-9047dc2d7552,SBQQ__Type__c,"#N/A",Value,"#N/A",111.0,Quote,equals,baa364d4-6f37-430a-a6a3-e35fbfe479e7,"#N/A","#N/A",Quote
+5bd192a6-2a53-4fb4-a002-dd9e6038ca77,Protected_Devices__c,"#N/A",Value,"#N/A","#N/A",Product Option,greater than,8fc15978-32fa-4c09-b6fb-b28e4172606e,"#N/A","#N/A",0
+5c566111-e005-422f-8f49-de1eabce803b,Protected_Devices__c,"#N/A",Value,"#N/A","#N/A",Product Option,greater than,8ee537a7-ef01-494c-a7ce-7e41484ac90e,"#N/A","#N/A",0
+5c5c4b94-b47f-4871-9975-9186c1346247,SBQQ__Type__c,"#N/A",Value,"#N/A",111.0,Quote,equals,063d1e4c-31f2-41f5-84df-9ac1a13571b9,"#N/A","#N/A",Quote
+5c938c84-449f-45cf-80e1-98a5ef448a24,SBQQ__Product__c,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,fbd25bd3-aafb-4464-9d6b-44d3b12bd5ff,"#N/A","#N/A","#N/A"
+5e58d345-459d-4065-9e22-5b93761c34fe,SBQQ__Product__c,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,be1394c8-62c4-4915-9fc7-46839cbbaeaf,"#N/A","#N/A","#N/A"
+61e24bc5-57b4-4721-a0cb-9553c9fa71b9,Product Code,"#N/A",Value,"#N/A",222.0,Product Option,equals,56fb64c8-d261-425e-8275-313cc25048cf,"#N/A","#N/A",EP-014
+6f028bcc-c995-45d0-a0e4-162e65563e58,Product Code,"#N/A",Value,"#N/A",222.0,Quote Line,equals,c9e3e345-b2e8-4cbc-818e-1311a7f0bcfb,"#N/A","#N/A",EP-014
+713e1ca6-3e99-4407-a8cc-d5e10b3812b6,Product Code,"#N/A",Value,"#N/A",444.0,Product Option,equals,429c4299-2a3f-46b9-aefd-8065125795e5,"#N/A","#N/A",EP-025
+75ca592d-517c-4e21-beee-463f1fba4755,Product Code,"#N/A",Value,"#N/A",444.0,Product Option,equals,15c8e6d6-a09a-47c9-8fe1-9041df3dfd98,"#N/A","#N/A",EP-025
+7ea3bbbc-250e-49c4-9148-9da0794150c2,Product Code,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,bfdbeb3b-e7a5-4931-95b5-2571f3e88317,"#N/A","#N/A",fdhfvu6578
+80c7384f-1114-4cea-ba8d-c7fae2c63da3,Product Code,"#N/A",Value,"#N/A",333.0,Product Option,equals,429c4299-2a3f-46b9-aefd-8065125795e5,"#N/A","#N/A",EP-015
+8a73c169-0f2b-440d-a344-588b6f98277a,Product Code,"#N/A",Value,"#N/A",444.0,Product Option,equals,56fb64c8-d261-425e-8275-313cc25048cf,"#N/A","#N/A",EP-025
+8f0623fe-8901-4a00-bdcb-c2ec386afba9,SBQQ__Product__c,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,11c71422-b7a1-4f0d-9552-9cfa1422c882,"#N/A","#N/A","#N/A"
+8fbb1f1f-ada0-47f9-b453-301cf1459194,SBQQ__Type__c,"#N/A",Value,"#N/A",111.0,Quote,equals,56fb64c8-d261-425e-8275-313cc25048cf,"#N/A","#N/A",Quote
+90659fab-5a9c-4c87-99fa-e8e0209ab68d,Product Code,"#N/A",Value,"#N/A","#N/A",Quote Line,equals,1718636a-8496-4cca-acfc-76ea5c8aa175,"#N/A","#N/A",WDCHIP
+9b72cccf-c533-470a-9f91-82647f576e1d,SBQQ__Product__c,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,a312652e-86e6-484c-b3e5-8875509d2c16,"#N/A","#N/A","#N/A"
+a0b881f5-d6cc-4437-b358-ae0cad4df152,SBQQ__ProductCode__c,"#N/A",Value,"#N/A","#N/A",Product Option,equals,8fc15978-32fa-4c09-b6fb-b28e4172606e,"#N/A","#N/A",EP-025
+a1ce7ba3-5af1-4b78-b50a-554f0d307d9e,SBQQ__Type__c,"#N/A",Value,"#N/A",111.0,Quote,equals,d2af865d-3b7b-45a3-8b12-f8e69a78a1a8,"#N/A","#N/A",Quote
+a24c9861-21f1-4af4-866c-a4ce38386f28,Product Code,"#N/A",Value,"#N/A",333.0,Product Option,equals,56fb64c8-d261-425e-8275-313cc25048cf,"#N/A","#N/A",EP-015
+a568246a-279b-4209-bdbd-f3eb113cf597,Product Code,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,70a96d75-7faf-4998-aa90-f30e878e94d7,"#N/A","#N/A",Run-on-all-quotelines
+a58dc46c-d300-4f4b-9e8c-38dc3047feab,Product Code,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,8606057a-5e82-4275-8d01-4f8896ea9036,"#N/A","#N/A",Run-on-all-quotelines
+a7651929-c8c3-43e3-b7d0-c18d1bbb70ae,SBQQ__Type__c,"#N/A",Value,"#N/A",111.0,Quote,equals,885c21a8-ef06-4ce1-8adb-c5cad773c71c,"#N/A","#N/A",Quote
+a8419ea2-ac60-46fe-9f87-30666f8eb19b,SBQQ__ProductCode__c,"#N/A",Value,"#N/A","#N/A",Product Option,equals,b9aefe99-a9c2-489f-9209-0da9eaf89ec1,"#N/A","#N/A",EP-025
+abb190ac-89f7-47d1-bf76-362a185e4862,Product Code,"#N/A",Value,"#N/A","#N/A",Quote Line,equals,97ae2ad4-5307-41e3-9720-d4dd268a382d,"#N/A","#N/A",WDCHIP
+ac0141ea-7f17-4d03-a78a-e12db69c7453,Protected_Devices__c,"#N/A",Value,"#N/A","#N/A",Product Option,greater than,e94e35a4-5d7d-4990-aa6c-13cb9e9f70b8,"#N/A","#N/A",0
+aee8700a-5592-42ba-bb20-95b14cf9b315,Product Code,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,1504e89d-b956-44e8-bbb1-ce622254c8f7,"#N/A","#N/A",fdhfvu6578
+b092c7ca-bf70-4f83-8f1a-cc96cedfee62,SBQQ__Product__c,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,a2ac9be9-0ef4-4d74-bc44-b796cfe62ceb,"#N/A","#N/A","#N/A"
+b332209d-3e4c-4ab1-bb00-7914dac969ef,Product Code,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,c843c80e-2487-4db3-99a0-61fdddc05705,"#N/A","#N/A",fdhfvu6578
+b41ab7b2-41a2-4672-96d9-0629bf315f70,Product Code,"#N/A",Value,"#N/A",333.0,Quote Line,equals,c9e3e345-b2e8-4cbc-818e-1311a7f0bcfb,"#N/A","#N/A",EP-015
+b7a7cf86-386b-4959-a09a-889188cd0cc2,Product Code,"#N/A",Value,"#N/A",222.0,Quote Line,equals,063d1e4c-31f2-41f5-84df-9ac1a13571b9,"#N/A","#N/A",EP-014
+b7af2f70-9bf1-4f0c-9011-e04b6c801312,Product Code,"#N/A",Value,"#N/A",333.0,Quote Line,equals,baa364d4-6f37-430a-a6a3-e35fbfe479e7,"#N/A","#N/A",EP-015
+bd166326-563f-4d33-adec-51b047a63ac9,SBQQ__Product__c,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,934a9d18-2622-40ef-8ec6-dc550ed65413,"#N/A","#N/A","#N/A"
+bd690c2c-0d5a-461b-9811-9d088df86e64,Product Code,"#N/A",Value,"#N/A","#N/A",Quote,not equals,c64db460-5b31-45c1-949e-9ad5ca08ba8a,"#N/A","#N/A",123
+bd9aa166-d231-436c-8766-235af4f88039,SBQQ__Type__c,"#N/A",Value,"#N/A",111.0,Quote,equals,7018a120-8e5d-44e6-852a-56396ba2e9fd,"#N/A","#N/A",Quote
+c3e48ad7-cbeb-47c0-95fd-b8fd3498b1c9,Product Code,"#N/A",Value,"#N/A","#N/A",Quote Line,equals,a39f7ce0-bf8b-406b-99f9-823cb1b76dc5,"#N/A","#N/A",WDCHIP
+c51a66c0-8ecf-44ab-bb66-1defc61f5875,SBQQ__Product__c,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,b6438a7c-d1a8-4f85-9aa4-299ff077d2b8,"#N/A","#N/A","#N/A"
+c603e665-9f57-413a-90a9-2c063f8dc242,Product Code,"#N/A",Value,"#N/A",444.0,Product Option,equals,885c21a8-ef06-4ce1-8adb-c5cad773c71c,"#N/A","#N/A",EP-025
+c60f3db3-2d4d-45f7-a829-534a7526f5fe,SBQQ__ProductCode__c,"#N/A",Value,"#N/A","#N/A",Product Option,equals,e94e35a4-5d7d-4990-aa6c-13cb9e9f70b8,"#N/A","#N/A",EP-025
+ca1bb316-1f70-4408-8667-bac190e1f7f7,SBQQ__ProductCode__c,"#N/A",Value,"#N/A","#N/A",Product Option,equals,517ad32a-a4ba-422b-a0ef-3ddb2547fd77,"#N/A","#N/A",EP-013
+cc2e2ddb-8b46-4120-b19f-a89ecbe35a0b,SBQQ__Product__c,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,5f87a850-7863-4cc0-af65-dc7f690ceb2a,"#N/A","#N/A","#N/A"
+cdcf4c4d-f4b7-4865-a5dc-4134b2e7c3d0,Product Code,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,a8ce3d75-4e1c-4d49-9809-3cce7e9a08d9,"#N/A","#N/A",Run-on-all-quotelines
+d2644515-b792-4092-8154-b563a63dc868,Product Code,"#N/A",Value,"#N/A",444.0,Product Option,equals,d2af865d-3b7b-45a3-8b12-f8e69a78a1a8,"#N/A","#N/A",EP-025
+d2ddb083-0942-486b-bb5c-b013f2795822,SBQQ__ProductCode__c,"#N/A",Value,"#N/A","#N/A",Product Option,equals,d8f35116-9536-4ddb-a83b-c80f47683714,"#N/A","#N/A",EP-013
+d3d0d423-0390-42a0-be11-2bc022aaeddf,Product Code,"#N/A",Value,"#N/A",222.0,Quote Line,equals,7018a120-8e5d-44e6-852a-56396ba2e9fd,"#N/A","#N/A",EP-014
+d6cc61f1-33d5-4742-a806-c814ef741def,Product Code,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,7236d4c1-763b-4e69-9c81-c604c926b9c4,"#N/A","#N/A",Run-on-all-quotelines
+de99698b-ccdf-4292-8103-eef2caa12b1a,Product Code,"#N/A",Value,"#N/A",222.0,Product Option,equals,d2af865d-3b7b-45a3-8b12-f8e69a78a1a8,"#N/A","#N/A",EP-014
+e4137764-a9ad-4175-a215-9edf543bf29b,SBQQ__ProductCode__c,"#N/A",Value,"#N/A","#N/A",Product Option,equals,03e7eb79-2a04-40bf-bc5b-4896e876296e,"#N/A","#N/A",EP-013
+e4c87469-cda2-42b9-baf1-b7336a2fbcc1,Product Code,"#N/A",Value,"#N/A",333.0,Quote Line,equals,7018a120-8e5d-44e6-852a-56396ba2e9fd,"#N/A","#N/A",EP-015
+ed95eb38-1c59-4bac-83b7-76af8058ef40,SBQQ__Product__c,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,2a26567f-326f-4311-8f87-24c2b4aefef0,"#N/A","#N/A","#N/A"
+f3c4efcc-f16f-4307-b846-ce76d9d2e589,Product Code,"#N/A",Value,"#N/A",444.0,Quote Line,equals,063d1e4c-31f2-41f5-84df-9ac1a13571b9,"#N/A","#N/A",EP-025
+f4a120fc-f9d9-41f4-9e68-f117149c3a30,Product Code,"#N/A",Value,"#N/A",444.0,Quote Line,equals,7018a120-8e5d-44e6-852a-56396ba2e9fd,"#N/A","#N/A",EP-025
+f4ec8bad-82d8-44c0-81a0-cb42d68baa2e,SBQQ__Product__c,"#N/A",Value,"#N/A","#N/A",Quote Line,not equals,61a02b15-ab13-4dff-873f-519c0df4e9e7,"#N/A","#N/A","#N/A"
+f651beac-e1fc-4be3-8168-21c424ee0eda,SBQQ__Type__c,"#N/A",Value,"#N/A",111.0,Quote,equals,c9e3e345-b2e8-4cbc-818e-1311a7f0bcfb,"#N/A","#N/A",Quote
+fb21dd99-c8ff-43d4-b999-1de88e35f1bd,SBQQ__Type__c,"#N/A",Value,"#N/A",111.0,Quote,equals,429c4299-2a3f-46b9-aefd-8065125795e5,"#N/A","#N/A",Quote
+fdb800b4-8a19-4b40-abf2-7c0f77a0ec43,Product Code,"#N/A",Value,"#N/A",333.0,Product Option,equals,885c21a8-ef06-4ce1-8adb-c5cad773c71c,"#N/A","#N/A",EP-015
+fe57db2f-bd98-46d8-a42a-57e9e9bd0197,SBQQ__Type__c,"#N/A",Value,"#N/A",111.0,Quote,equals,4b960207-1fb6-4f91-b578-d2d6aa6e5bd7,"#N/A","#N/A",Quote
